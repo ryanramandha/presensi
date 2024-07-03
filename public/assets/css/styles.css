@@ -1,0 +1,11 @@
+.bg-custom {
+  background-color: #ff0015;
+}
+
+ul.nav-sidebar a.active {
+  background-color: #d80213 !important;
+}
+
+th {
+  white-space: nowrap;
+}
